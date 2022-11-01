@@ -1,4 +1,4 @@
-![banner](./img/daniela%20L.%20aravena%20front%20end%20developer.png)
+![banner](/daniela%20L.%20aravena%20front%20end%20developer.png)
 
 
 ``` js 
