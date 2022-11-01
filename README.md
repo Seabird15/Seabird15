@@ -24,7 +24,7 @@ Soy una persona dinamica, me gusta tener objetivos claros y avanzar hacia ellos 
 # Talk to me :) :earth_americas:
 
 
-- [Linkedin](https://www.linkedin.com/danielalizamaaravenadv/)
+- [Linkedin](https://www.linkedin.com/in/danielalizamaaravenadv/)
 - [Github](https://github.com/Seabird15)
 
 -------
