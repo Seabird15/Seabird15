@@ -21,11 +21,11 @@ Soy una persona dinamica, me gusta tener objetivos claros y avanzar hacia ellos 
 
 --------
 
-Más sobre mí:
-Jugadora Amateour Fut7 femenino en Ligas de Santiago  :soccer: <br>
-Amo a los gatos en todas sus formas y colores :cat2: <br>
-Me gusta dibujar solo usando lapiz pasta negro :pencil2: <br>
-Soy baterista autodidacta :musical_note: <br>
+#### Más sobre mí:
+#### Jugadora Amateour Fut7 femenino en Ligas de Santiago  :soccer: <br>
+#### Amo a los gatos en todas sus formas y colores :cat2: <br>
+#### Me gusta dibujar solo usando lapiz pasta negro :pencil2: <br>
+#### Soy baterista autodidacta :musical_note: <br>
 
 # Talk to me :) :earth_americas:
 
