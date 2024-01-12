@@ -5,12 +5,12 @@
 const daniLizama = {
     technologies: 'Web',
     pronouns: "she" | "her",
-    code: [HTML, CSS, Javascript],
-    tools: [React, Git, Bootstrap]
+    code: [HTML, CSS, Javascript, Vue 3],
+    tools: [Tailwind, Modyo, Git, Bootstrap]
 }
 ```
 # Daniela Paz Lizama Aravena
-## Front End Developer JR | HTML | CSS | JAVASCRIPT | GITHUB | REACT
+## Front End Developer JR | HTML | CSS | JAVASCRIPT | GITHUB | VUE 3 COMPOSITION API | MODYO | TAILWIND
 
 ### :fire: :hand: ¡Hello World! I'm Daniela :)  :fire:
 
@@ -24,13 +24,13 @@ Soy una persona dinamica, me gusta tener objetivos claros y avanzar hacia ellos 
 ### Más sobre mí:
  :arrow_forward:Jugadora Amateur Fut7 femenino en Ligas de Santiago  :soccer:<br>:arrow_forward:Amo a los gatos en todas sus formas y colores :cat2:<br>:arrow_forward:Me gusta dibujar solo usando lapiz pasta negro :pencil2:<br>:arrow_forward:Soy baterista autodidacta :musical_note: <br>
 
-# Talk to me :) :earth_americas:
+# Conversemos :) :earth_americas:
 
 
 - [Linkedin](https://www.linkedin.com/in/danielalizamaaravenadv/)
 - [Github](https://github.com/Seabird15)
 
 -------
-# Visit my portfolio
+# Te invito a conocer mi Portfolio 
 
 [Portfolio Daniela L Aravena](https://seabird15.github.io/Portafolio/)
