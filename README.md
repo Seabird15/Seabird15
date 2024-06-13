@@ -10,7 +10,7 @@ const daniLizama = {
 }
 ```
 # Daniela Paz Lizama Aravena
-## Front End Developer JR | HTML | CSS | JAVASCRIPT | GITHUB | VUE 3 COMPOSITION API | MODYO | TAILWIND
+## Front End Developer  | HTML | CSS | JAVASCRIPT | GITHUB | |VUE 2 | VUE 3 COMPOSITION API | MODYO | TAILWIND
 
 ### :fire: :hand: ¡Hello World! I'm Daniela :)  :fire:
 
