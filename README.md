@@ -33,4 +33,4 @@ Soy una persona dinamica, me gusta tener objetivos claros y avanzar hacia ellos 
 -------
 # Te invito a conocer mi Portfolio 
 
-[Portfolio Daniela L Aravena](https://seabird15.github.io/Portafolio/)
+[Portfolio Daniela L Aravena]([https://seabird15.github.io/Portafolio/](https://musical-starship-0fd502.netlify.app/))
