@@ -29,8 +29,11 @@ Soy una persona dinamica, me gusta tener objetivos claros y avanzar hacia ellos 
 
 - [Linkedin](https://www.linkedin.com/in/danielalizamaaravenadv/)
 - [Github](https://github.com/Seabird15)
+  
+# Te invito a conocer mi Portfolio 
+- [Portfolio](https://musical-starship-0fd502.netlify.app/)
 
 -------
-# Te invito a conocer mi Portfolio 
 
-[Portfolio Daniela L Aravena]([https://seabird15.github.io/Portafolio/](https://musical-starship-0fd502.netlify.app/))
+
+
